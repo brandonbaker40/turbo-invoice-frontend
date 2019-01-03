@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Discipline } from '../../../models/discipline';
+// something
 
 @Component({
   selector: 'app-discipline-list',
